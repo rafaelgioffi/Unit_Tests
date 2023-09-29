@@ -1,0 +1,15 @@
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\.NET\DIO\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\Desenvolvimento\.NET\DIO\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\Desenvolvimento\.NET\DIO\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\Desenvolvimento\.NET\DIO\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\Desenvolvimento\.NET\DIO\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\Desenvolvimento\.NET\DIO\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
