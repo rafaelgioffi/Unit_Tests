@@ -6062,26 +6062,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rafael\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\a897235\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desenvolvimento\\.NET\\DIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
+      "projectUniqueName": "C:\\Users\\a897235\\OneDrive - Atos\\Documents\\PROJETOS\\Unit_Tests\\CalculadoraTestes\\CalculadoraTestes.csproj",
       "projectName": "CalculadoraTestes",
-      "projectPath": "D:\\Desenvolvimento\\.NET\\DIO\\CalculadoraTestes\\CalculadoraTestes.csproj",
-      "packagesPath": "C:\\Users\\Rafael\\.nuget\\packages\\",
-      "outputPath": "D:\\Desenvolvimento\\.NET\\DIO\\CalculadoraTestes\\obj\\",
+      "projectPath": "C:\\Users\\a897235\\OneDrive - Atos\\Documents\\PROJETOS\\Unit_Tests\\CalculadoraTestes\\CalculadoraTestes.csproj",
+      "packagesPath": "C:\\Users\\a897235\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a897235\\OneDrive - Atos\\Documents\\PROJETOS\\Unit_Tests\\CalculadoraTestes\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Rafael\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\a897235\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6089,15 +6082,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Desenvolvimento\\.NET\\DIO\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "D:\\Desenvolvimento\\.NET\\DIO\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\a897235\\OneDrive - Atos\\Documents\\PROJETOS\\Unit_Tests\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\a897235\\OneDrive - Atos\\Documents\\PROJETOS\\Unit_Tests\\Calculadora\\Calculadora.csproj"
             }
           }
         }
@@ -6149,7 +6141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
